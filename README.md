@@ -38,4 +38,4 @@
 - Transformation matrices 
 - Lighting and shading techniques
 
-I was thought core computer graphics concepts while creating an aesthetically pleasing interactive scene.
+I was taught core computer graphics concepts while creating an aesthetically pleasing interactive scene.
